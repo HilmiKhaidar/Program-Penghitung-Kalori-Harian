@@ -11,7 +11,7 @@ total_kalori_harian = 0
 
 print("=== Program Penghitung Kalori Harian ===")
 while True:
-    makanan = input("Masukkan nama makanan (atau ketik 'selesai' untuk keluar): ")
+    makanan = input("Masukkan nama makanaan (atau ketik 'selesai' untuk keluar): ")
     if makanan.lower() == 'selesai':
         break
 
